@@ -1,0 +1,18 @@
+# Tech Futures CloudSingularity AS394256, last updated (rfc3339): 2022-12-06T19:01:48+00:00
+# Self-Published IP Geolocation Feeds as defined in datatracker.ietf.org/doc/html/rfc8805
+# Number of records: 13
+
+23.190.64.0/24,,,,
+192.30.88.0/23,CA,CA-BC,Vancouver,
+192.251.0.0/24,CA,CA-BC,,
+192.251.0.240/28,CA,CA-BC,Coquitlam,
+193.188.2.0/24,CA,CA-ON,Toronto,
+193.188.3.0/24,CA,CA-AB,Calgary,
+193.188.14.0/24,,,,
+193.188.15.0/24,CA,CA-BC,Vancouver,
+104.193.132.0/22,CA,,,
+
+38.88.124.0/23,CA,CA-BC,Vancouver,
+38.88.124.0/24,CA,CA-BC,Vancouver,
+38.88.125.0/24,CA,CA-BC,Vancouver,
+38.240.224.0/24,CA,CA-ON,Toronto,
