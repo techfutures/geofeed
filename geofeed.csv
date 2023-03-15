@@ -19,7 +19,7 @@
 38.240.224.0/24,CA,CA-ON,Toronto,
 38.240.225.0/24,CA,,,
 38.240.226.0/23,CA,CA-BC,Vancouver,
-38.240.226.0/24,,CA,CA-BC,Vancouver,
+38.240.226.0/24,CA,CA-BC,Vancouver,
 38.240.227.0/24,CA,CA-BC,Vancouver,
 
 2606:9580::/40,CA,CA-BC,Vancouver,
